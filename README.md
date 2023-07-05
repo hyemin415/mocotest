@@ -17,7 +17,7 @@
 
 ## 💁‍♀️ **Introduce**
 -----
-![이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0Z94iqO01RBz7uaesVFC5hG-J4y-ldNCHg&usqp=CAU)
+<img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202011/04/6f78907d-3255-43d3-82a5-bba84b77c94e.jpg"  height="200px" width="300px">
 <details>
 <summary><span style="color:#fff5b1;  font-size:18px; "><b>🌈OPEN<b></span></summary>
 <div markdown="1">
